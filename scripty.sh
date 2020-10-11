@@ -103,4 +103,4 @@ rm $url/recon/wayback/extensions/aspx1.txt
 #hello rm $url/recon/wayback/extensions/js1.txt
 #m $url/recon/wayback/extensions/js1.txt
 #m $url/recon/wayback/extensions/js1.txt
-#m $url/recon/wayback/extensions/js1.txt
+#m $url/recon/wayback/extensions
